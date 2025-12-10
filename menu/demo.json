@@ -1,0 +1,1803 @@
+{
+"statusCode": 0,
+"data": {
+"statusMessage": "done successfully",
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+"text": "Sree Annapoorna",
+"headerStyling": {
+"textColor": "text_Highest_Emphasis",
+"textVariant": "header_H3_Black"
+}
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+"tabs": [
+{
+"id": "Order Online",
+"title": "Order Online"
+}
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+"info": {
+"id": "51206",
+"name": "Sree Annapoorna",
+"city": "Coimbatore",
+"slugs": {
+"restaurant": "sree-annapoorna-sree-gowrishankar-race-course-race-course",
+"city": "coimbatore"
+},
+"uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+"cloudinaryImageId": "vmf9bgblyxr3zmrvr2cr",
+"locality": "Race Course",
+"areaName": "Race Course",
+"costForTwo": "20000",
+"costForTwoMessage": "₹200 for two",
+"cuisines": [
+"Indian",
+"South Indian"
+],
+"avgRating": 4.7,
+"veg": true,
+"feeDetails": {
+"restaurantId": "51206",
+"fees": [
+{}
+]
+},
+"parentId": "4732",
+"avgRatingString": "4.7",
+"totalRatingsString": "48K+ ratings",
+"sla": {
+"restaurantId": "51206",
+"deliveryTime": 22,
+"minDeliveryTime": 20,
+"maxDeliveryTime": 25,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"stressFactor": 1,
+"rainMode": "RAIN_MODE_NONE",
+"longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+"zoneId": 417,
+"slaString": "20-25 MINS",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-12-10 22:30:00",
+"visibility": true,
+"opened": true,
+"restaurantClosedMeta": {}
+},
+"aggregatedDiscountInfo": {
+"header": "Freedel",
+"shortDescriptionList": [
+{
+"meta": "Freedel",
+"discountType": "FREE_DELIVERY",
+"operationType": "RESTAURANT"
+},
+{
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "Freedel",
+"discountType": "FREE_DELIVERY",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "7.5% off upto ₹100| Above ₹399",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+}
+],
+"visible": true
+},
+"badges": {},
+"slugString": "sree-annapoorna-sree-gowrishankar-race-course-race-course",
+"multiOutlet": true,
+"isOpen": true,
+"labels": [
+{
+"title": "Timings",
+"message": "null"
+},
+{
+"title": "Address",
+"message": "Peoples Park, 26, Government Arts College Rd, Coimbatore, Tamil Nadu 641018"
+},
+{
+"title": "Cuisines",
+"message": "Indian,South Indian"
+}
+],
+"totalRatings": 48000,
+"aggregatedDiscountInfoV2": {
+"header": "Freedel",
+"shortDescriptionList": [
+{
+"meta": "Freedel",
+"discountType": "FREE_DELIVERY",
+"operationType": "RESTAURANT"
+},
+{
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "Freedel",
+"discountType": "FREE_DELIVERY",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "7.5% off upto ₹100| Above ₹399",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+}
+]
+},
+"type": "F",
+"headerBanner": {
+"url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/51206"
+},
+"generalPurposeInfoListV2": [
+{
+"cta": {
+"info": {
+"recordings": {}
+},
+"linkCta": {}
+}
+}
+],
+"ratingSlab": "RATING_SLAB_5",
+"orderabilityCommunication": {
+"title": {},
+"subTitle": {},
+"message": {},
+"customIcon": {},
+"commsStyling": {}
+},
+"hasBestsellerItems": true,
+"cartOrderabilityNudgeBanner": {
+"parameters": {},
+"presentation": {}
+},
+"latLong": "11.00013069,76.9713408",
+"backgroundImageOverlayInfo": {},
+"menuHeaderLottie": {
+"menuHeaderLottie": "https://media-assets.swiggy.com/bolt/bolt%2015%20black.json?updatedAt=1733379625251",
+"frequencyCapping": {}
+},
+"featuredSectionInfo": {},
+"hasBoltItems": true
+},
+"analytics": {}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+"sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+"layout": {
+"rows": 1,
+"columns": 2,
+"horizontalScrollEnabled": true,
+"itemSpacing": 12,
+"lineSpacing": 10,
+"widgetPadding": {},
+"containerStyle": {
+"containerPadding": {
+"left": 10,
+"right": 10,
+"bottom": 16
+}
+}
+},
+"id": "offerCollectionWidget_UX4",
+"gridElements": {
+"infoWithStyle": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+"offers": [
+{
+"info": {
+"header": "7.5% OFF UPTO ₹100",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/8c558ee4-4d93-4c9a-8cc5-5f615532929a_YESBankMenuLogoNew1.png",
+"offerIds": [
+"c85fbe8f-7890-4a28-8ce8-af4536680043"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "NO CODE REQUIRED",
+"description": "ABOVE ₹399",
+"offerType": "offers",
+"restId": "51206",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/8c558ee4-4d93-4c9a-8cc5-5f615532929a_YESBankMenuLogoNew1.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "NO CODE REQUIRED"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹50 OFF",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/12/8/27b56e14-7295-498e-85f1-68974be9b742_ICICIMenuLogo.png",
+"offerIds": [
+"874b93a8-ff3f-486e-a214-6461f3473fc2"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "NO CODE REQUIRED",
+"description": "ABOVE ₹599",
+"offerType": "offers",
+"restId": "51206",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/12/8/27b56e14-7295-498e-85f1-68974be9b742_ICICIMenuLogo.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "NO CODE REQUIRED"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+}
+],
+"habitMilestoneInfo": {
+"callout": {}
+},
+"loyaltyDiscoverPresentationInfo": {
+"logoCtx": {}
+}
+}
+}
+}
+}
+},
+{
+"groupedCard": {
+"cardGroupMap": {
+"REGULAR": {
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+"isPureVeg": true,
+"badges": {},
+"vegOnlyDetails": {
+"imageId": "AutoVegOnly_qkjowj",
+"title": "Showing only vegetarian options.",
+"description": "Tap on the VEG ONLY button to turn off the setting"
+},
+"topRatedFilter": {
+"attributes": {
+"displayText": "Ratings 4.0+"
+}
+},
+"kidsCategoryFilter": {
+"attributes": {
+"displayText": "Kids Favourites",
+"tooltip": {
+"enabled": true,
+"displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+}
+}
+},
+"vegFilter": {
+"attributes": {
+"displayText": "VEG"
+}
+},
+"nonvegFilter": {
+"attributes": {
+"displayText": "NONVEG"
+}
+},
+"bolt": {
+"attributes": {
+"displayText": "Food in 10-15 mins",
+"displayImage": "bolt/bolt%2011.png",
+"unselectedDisplayImage": "bolt/bolt%2011.png"
+}
+}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+"sectionId": "MENU_FILTER_TOGGLE"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Dosas & Uthappams",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "136543810",
+"name": "Poori-\\3 Pc",
+"category": "Dosas & Uthappams",
+"description": "A Popular Indian Deep-Fried,Soft And Fluffy Round Shaped Bread Made From Unleavened Wheat Flour Dough.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/5/01ca51a6-b0da-4e5f-89e5-f47c26d83ba4_298ff9eb-7780-42d9-b12b-6aa99663eb02.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 14500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "328 ratings",
+"ratingCountV2": "328"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "80070603"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "64337206",
+"name": "Ghee Masal Roast",
+"category": "Dosas & Uthappams",
+"description": "A Delectable And Savory South Indian Dosa That Exemplifies The Rich Flavors Of Ghee (Clarified Butter) And A Flavorful Masala Filling.",
+"imageId": "c468eaa3220ab71d655128e3e3187af8",
+"inStock": 1,
+"isVeg": 1,
+"price": 16200,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "148 ratings",
+"ratingCountV2": "148"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247845"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964485",
+"name": "Ghee Roast",
+"category": "Dosas & Uthappams",
+"description": " A Generous Amount Of Ghee (Clarified Butter) Is Used To Spread Over The Surface Of Crispy Roast, Infusing It With A Rich And Buttery Taste",
+"imageId": "22da2a566eca0ede79ed3da277cd76a3",
+"inStock": 1,
+"isVeg": 1,
+"price": 14900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "1128 ratings",
+"ratingCountV2": "1.1K+"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247869"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "165817299",
+"name": "Plain Roast",
+"category": "Dosas & Uthappams",
+"description": "Beloved South Indian Delicacy Made From A Fermented Batter Of Rice And Urad Dal (Black Gram), The Dosa Is Cooked On A Hot Griddle Until It Becomes Crisp And Lacy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/3a148cf6-2397-4f32-a39c-51a5fb377522_ab475409-2646-4f59-a239-d12b309cd583",
+"inStock": 1,
+"isVeg": 1,
+"price": 10900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "158 ratings",
+"ratingCountV2": "158"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99801273"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964469",
+"name": "Onion Uthappam ",
+"category": "Dosas & Uthappams",
+"description": "A Favorful South Indian Pancake That Showcases A Delightful Combination Of Soft And Spongy Texture With The Rich Taste Of Caramelized Onions",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/b593d296-30e6-4511-a950-5fb612460c6f_9e6a8dc2-6833-48bd-bc3b-06fcae3996c0",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "611 ratings",
+"ratingCountV2": "611"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "27248222"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964294",
+"name": "Rava Roast",
+"category": "Dosas & Uthappams",
+"description": "A Popular And Mouthwatering South Indian Crepe Made From Semolina (Rava) And Rice Flour. ",
+"imageId": "18469ea0a39843ded76ed26dd7b4053b",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "899 ratings",
+"ratingCountV2": "899"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "27248432"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "64336932",
+"name": "Ghee Rava Masal Roast ",
+"category": "Dosas & Uthappams",
+"description": "Savory And Crispy Dosa Made From A Batter Of Semolina (Rava) Layered With Potato Masala And Garnished With Pure Ghee.",
+"imageId": "2c3a1949d799187787702515b9cf26d7",
+"inStock": 1,
+"isVeg": 1,
+"price": 17100,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "10 ratings",
+"ratingCountV2": "10"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247861"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964305",
+"name": "Onion Rava Roast ",
+"category": "Dosas & Uthappams",
+"description": "Made From Semolina (Rava) And Seasoned With A Tantalizing Blend Of Spices, This Crispy And Savory Pancake Is Generously Adorned With Finely Chopped Onions, Adding A Burst Of Flavor To Every Bite. ",
+"imageId": "2a857166f1ed46bb686d7b3f087cd49e",
+"inStock": 1,
+"isVeg": 1,
+"price": 16000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "251 ratings",
+"ratingCountV2": "251"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248215"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964306",
+"name": "Ghee Onion Roast",
+"category": "Dosas & Uthappams",
+"description": "The Slow Cooking Process Of Ghee Onion Roast Enhances The Natural Sweetness Of The Onions, And The Ghee Adds A Delectable Richness To The Dish.",
+"imageId": "02f4f1f53b337c8543a045a74e08050f",
+"inStock": 1,
+"isVeg": 1,
+"price": 16300,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "156 ratings",
+"ratingCountV2": "156"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247854"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964311",
+"name": "Podi Uthappam",
+"category": "Dosas & Uthappams",
+"description": " The Uthappam Batter, Made From Fermented Rice And Lentils, Is Generously Sprinkled With The Aromatic And Spicy Podi Mixture Served With Chutney's And Sambar. ",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/6453c931-1c3c-49ea-bcc5-2b92467e9171_6ae17966-abcc-4c96-8af2-83c0993489a6",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "165 ratings",
+"ratingCountV2": "165"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248359"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964303",
+"name": "Onion Roast",
+"category": "Dosas & Uthappams",
+"description": "A Flavorful And Aromatic South Indian Crepe That Features A Generous Amount Of Finely Chopped Onions Cooked Into The Dosa Batter.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/b1992c16-6ae0-4717-893e-aafd1ee9bb1e_56ad3205-8fc1-4d1f-8f33-82a05ba8bd35",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "504 ratings",
+"ratingCountV2": "504"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "27248218"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "64336952",
+"name": "Rava Masal Roast",
+"category": "Dosas & Uthappams",
+"description": "Instead Of The Usual Rice And Lentil Batter, This Dosa Is Made Using A Batter Composed Of Rava (Semolina) Mixed With Rice Flour, Which Gives It A Distinct Texture And Flavor. The Batter Is Fermented, Making The Dosa Light And Crispy.",
+"imageId": "c0d07ad70403411373c68a899f903da0",
+"inStock": 1,
+"isVeg": 1,
+"price": 15900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248429"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964415",
+"name": "Ghee Rava Roast ",
+"category": "Dosas & Uthappams",
+"description": "South Indian Delicacy Made From A Batter Consisting Of Semolina (Rava Or Sooji), Rice Flour, All-Purpose Flour (Maida), And Yogurt. What Sets This Dosa Apart Is The Addition Of Ghee (Clarified Butter), Which Lends A Rich And Distinctive Flavor",
+"imageId": "b0ca0307f5e54d8ef872f7796bbf0111",
+"inStock": 1,
+"isVeg": 1,
+"price": 15300,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "129 ratings",
+"ratingCountV2": "129"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247864"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964496",
+"name": "Ghee Uthappam ",
+"category": "Dosas & Uthappams",
+"description": "A Soft And Spongy Texture Made From A Fermented Batter Of Rice And Urad Dal, Cooked With The Richness Of Ghee, A Traditional Clarified Butter.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/9ca5cb4b-f766-4d15-a8e4-80e3b4e5a41a_057674a8-7a1a-48b3-9a51-7c1c439802d3",
+"inStock": 1,
+"isVeg": 1,
+"price": 14900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "87 ratings",
+"ratingCountV2": "87"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247881"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964401",
+"name": "Tomato Uthappam",
+"category": "Dosas & Uthappams",
+"description": "A Mouthwatering South Indian Pancake That Combines The Softness Of Fermented Rice And Lentil Batter With The Tanginess Of Tomatoes And A Medley Of Flavorful Toppings.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/7/9cee9577-73d5-4335-9008-ad5abddf2580_8ce63da8-fede-49af-ad78-0931624f2206.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 14000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "62 ratings",
+"ratingCountV2": "62"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248627"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964325",
+"name": "Uthappam ",
+"category": "Dosas & Uthappams",
+"description": "A Delightful And Savory South Indian Pancakes Made From A Fermented Batter Of Rice And Urad Dal (Black Gram Lentils),Known For Its Thick And Spongy Texture. ",
+"imageId": "ca387d07edc35f8155ccb9487af4abf5",
+"inStock": 1,
+"isVeg": 1,
+"price": 11000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "371 ratings",
+"ratingCountV2": "371"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248637"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/5/01ca51a6-b0da-4e5f-89e5-f47c26d83ba4_298ff9eb-7780-42d9-b12b-6aa99663eb02.jpg",
+"categoryId": "12929887"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Breakfast & Dinner Specialities",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964255",
+"name": "Pongal",
+"category": "Breakfast & Dinner Specialities",
+"description": "It Is A Savory Rice And Lentil Dish Made With Freshly Harvested Rice, Moong Dal (Split Yellow Lentils), And Seasoned With Cumin Seeds, Black Pepper, And Ginger",
+"imageId": "d5b140500a5ccf5cfca5fe91f95343a1",
+"inStock": 1,
+"isVeg": 1,
+"price": 8800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "4065 ratings",
+"ratingCountV2": "4.1K+"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "27248368"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "165817303",
+"name": "Poori-2 Pcs ",
+"category": "Breakfast & Dinner Specialities",
+"description": "A Popular Indian Deep-Fried,Soft And Fluffy Round Shaped Bread Made From Unleavened Wheat Flour Dough.",
+"imageId": "c4eba56cc9a6dd9941f847b9ff13c2e6",
+"inStock": 1,
+"isVeg": 1,
+"price": 10600,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "55 ratings",
+"ratingCountV2": "55"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58785909"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "136543811",
+"name": "Rava Kitchadi",
+"category": "Breakfast & Dinner Specialities",
+"description": "South Indian Breakfast Dish Made With Rava (Semolina), Vegetables, And Spices. The Rava Is Roasted And Cooked With A Mix Of Colorful Vegetables, Creating A Flavorful And Aromatic Mixture.",
+"imageId": "9a5e810406338a4972f71026e5214bc6",
+"inStock": 1,
+"isVeg": 1,
+"price": 8100,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "208 ratings",
+"ratingCountV2": "208"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "80070604"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "d5b140500a5ccf5cfca5fe91f95343a1",
+"categoryId": "12929874"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Special Dosa Varieties",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "165815529",
+"name": "Masal Roast ",
+"category": "Special Dosa Varieties",
+"description": "A Mouthwatering And Popular South Indian Dish That Brings Together The Goodness Of Crispy Dosa And A Flavorful Potato Masala Filling. ",
+"imageId": "68e276df1e36f4d76da8b9156959ba8c",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "89 ratings",
+"ratingCountV2": "89"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99801267"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68964309",
+"name": "Podi Roast",
+"category": "Special Dosa Varieties",
+"description": "The Aromatic And Spicy Flavors Of The Iconic \"Podi\" Spice Is Blend Inside The Crispy Dosa Making It As Delightful Dish.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/cfde3a8f-dd29-47f4-ab73-143803f6ff68_2a2f1a96-7692-411f-8c63-c220a3ebd847",
+"inStock": 1,
+"isVeg": 1,
+"price": 13800,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "229 ratings",
+"ratingCountV2": "229"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "27248355"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "68e276df1e36f4d76da8b9156959ba8c",
+"categoryId": "12929897"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Hot Beverages",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "123706645",
+"name": "Annapoorna Coffee Pack Of 4",
+"category": "Hot Beverages",
+"description": "Annapoorna Filter Coffee Is Made By Rich Handpicked Coffee Beans Roasted To Perfection And Once The Coffee Decoction Is Ready, It Is Combined With Hot Frothy Milk And A Touch Of Sweetener, Usually Jaggery Or Sugar.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/526dcc63-f107-40f0-9d7c-bbdcc978081e_8d1d3de9-afb4-474c-aa03-df1f7c67d948_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 21000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "336 ratings",
+"ratingCountV2": "336"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "71221275"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/526dcc63-f107-40f0-9d7c-bbdcc978081e_8d1d3de9-afb4-474c-aa03-df1f7c67d948_compressed",
+"categoryId": "39231300"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Fresh Fruit Juices",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "12170270",
+"name": "Apple Juice",
+"category": "Fresh Fruit Juices",
+"description": "A Delicious And Refreshing Beverage Made From The Juice Of Fresh Apples.",
+"imageId": "68bc3ed663518c76272b0d0f0d35aafa",
+"inStock": 1,
+"isVeg": 1,
+"price": 9400,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "351 ratings",
+"ratingCountV2": "351"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247505"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "116738059",
+"name": "Mosambi Juice",
+"category": "Fresh Fruit Juices",
+"description": "A Refreshing Tropical Drink That Captures The Luscious And Tangy Flavors Of Mozambican Oranges, Also Known As Mandarins Or Tangerines.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/95f578fb-43f8-4587-a18b-7d1dca7ed180_939984ae-1e49-47db-a89a-893f5e8e9d70",
+"inStock": 1,
+"isVeg": 1,
+"price": 9400,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "95 ratings",
+"ratingCountV2": "95"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"isBolt": true,
+"boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+"parentId": "66471729"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "12170302",
+"name": "Watermelon Juice ",
+"category": "Fresh Fruit Juices",
+"description": "A Refreshing And Hydrating Beverage Made By Blending Ripe And Juicy Watermelon Flesh.",
+"imageId": "c7ba30f84445050dc0a055d88a60c78e",
+"inStock": 1,
+"isVeg": 1,
+"price": 8100,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "579 ratings",
+"ratingCountV2": "579"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27248729"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "68bc3ed663518c76272b0d0f0d35aafa",
+"categoryId": "35387259"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Cold Beverages",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "168687606",
+"name": "Annapoorna Filter Coffee Milkshake ",
+"category": "Cold Beverages",
+"description": "A Delightful Twist On A Classic Favourite, A Blend Of Freshly Brewed Filter Coffee, Milk And Ice Cream-Perfect For Coffee Lovers Seeking A Cool, Creamy Twist.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/6/439108f2-553a-4a07-855f-50bab48dba88_6095294c-ab7b-4fac-91d1-4bc30b78e4c1.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 18096,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "101759999"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/6/6/439108f2-553a-4a07-855f-50bab48dba88_6095294c-ab7b-4fac-91d1-4bc30b78e4c1.jpg",
+"categoryId": "59361445"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Rava Dosas",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "165719114",
+"name": "Ghee Onion Rava Roast",
+"category": "Rava Dosas",
+"description": "A Mouthwatering And Aromatic South Indian Pancake That Showcases The Rich Flavor Of Ghee, The Crunchiness Of Rava (Semolina), And The Savory Taste Of Onions.",
+"imageId": "2a857166f1ed46bb686d7b3f087cd49e",
+"inStock": 1,
+"isVeg": 1,
+"price": 16500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "27247851"
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "2a857166f1ed46bb686d7b3f087cd49e",
+"categoryId": "43588145"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+"type": "FSSAI",
+"imageId": "fssai_final_edss9i",
+"text": [
+"License No. 12417003000653"
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+"name": "Sree Annapoorna",
+"area": "Race Course",
+"completeAddress": "Peoples Park, 26, Government Arts College Rd, Coimbatore, Tamil Nadu 641018"
+}
+}
+}
+]
+}
+}
+}
+}
+],
+"firstOffsetRequest": true,
+"isQCLink": false
+},
+"tid": "4efd6f32-17f4-4332-8206-65e016faa880",
+"sid": "ogx88727-1c1d-4c9c-b805-fa1083172af3",
+"deviceId": "f7d3768e-9c7a-60db-1832-704c1add0862",
+"csrfToken": "4bS8kufDT9Cr-AfTHKomFvIZ59C823UcuS-8UCYk"
+}
